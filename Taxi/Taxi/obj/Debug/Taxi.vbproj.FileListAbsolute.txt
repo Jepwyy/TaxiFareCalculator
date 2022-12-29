@@ -1,0 +1,10 @@
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\obj\Debug\Taxi.Form1.resources
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\obj\Debug\Taxi.Resources.resources
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\obj\Debug\Taxi.vbproj.GenerateResource.Cache
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\bin\Debug\Taxi.exe
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\bin\Debug\Taxi.pdb
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\bin\Debug\Taxi.xml
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\obj\Debug\Taxi.exe
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\obj\Debug\Taxi.xml
+C:\Users\QCU\AppData\Local\Temporary Projects\Taxi\obj\Debug\Taxi.pdb
